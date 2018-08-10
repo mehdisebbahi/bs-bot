@@ -1,2 +1,0 @@
-# bs-bot
-bs bot
